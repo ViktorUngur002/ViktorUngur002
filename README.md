@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ViktorUngur002/ViktorUngur002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Links to projects
+* Interesting projects I've done for my laboratories
+  * A website for a restaurant: [The Curious Fork](https://github.com/ViktorUngur002/TheCuriousFork.git)
