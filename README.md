@@ -1,19 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ViktorUngur002/ViktorUngur002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Viktor Ungur
 
-Here are some ideas to get you started:
+## About Me
+I'm a student at Politehnica University Timisoara, at the Faculty of Automation and Computing. Passionate about machine learning, and software development. I'm eager to explore new technologies and expand my knowledge in the field. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Links to projects
+## Interests
+- Software Development
+- Machine Learning
+- Artificial Intelligence
+- Cloud
+- Networking
+
+## Links to projects
 * Interesting projects I've done for my laboratories
   * A website for a restaurant: [The Curious Fork](https://github.com/ViktorUngur002/TheCuriousFork.git)
