@@ -15,3 +15,4 @@ I'm a student at Politehnica University Timisoara, at the Faculty of Automation 
 ## Links to projects
 * Interesting projects I've done for my laboratories
   * A website for a restaurant: [The Curious Fork](https://github.com/ViktorUngur002/TheCuriousFork.git)
+  * Small project for file manipulation, image processing, parallel processes : [OperatingSystemProject](https://github.com/ViktorUngur002/OperatingSystemsProject.git)
