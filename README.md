@@ -3,7 +3,7 @@
 ## My name is Viktor Ungur
 
 ## About Me
-I'm a student at Politehnica University Timisoara, at the Faculty of Automation and Computing. Passionate about machine learning, and software development. I'm eager to explore new technologies and expand my knowledge in the field. 
+I am a motivated graduate from Politehnica University Timisoara, field of Computer and Information Technology, currently pursuing a Master's degree in Machine Learning. Passionate about Artificial Intelligence, Machine Learning and Software Engineering eager to apply theoretical knowledge in practical, real-world environments.
 
 ## Interests
 - Software Development
@@ -13,7 +13,7 @@ I'm a student at Politehnica University Timisoara, at the Faculty of Automation 
 - Networking
 
 ## Links to projects
-* Interesting projects I've done for my laboratories
+* Interesting projects I've done so far.
   * [OpenMamba](https://github.com/ViktorUngur002/openmamba.git) research project for open-vocabulary semantic segmentation.
   * A website for a restaurant: [The Curious Fork](https://github.com/ViktorUngur002/TheCuriousFork.git).
   * Small project for file manipulation, image processing, parallel processes : [OperatingSystemProject](https://github.com/ViktorUngur002/OperatingSystemsProject.git).
